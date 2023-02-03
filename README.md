@@ -8,4 +8,5 @@ This is a Tezos based cricket betting smart contract built using SmartPy. It all
 - **resolveBet()**
 
 ## Contract Address 
-KT1BGfekcZLniRiA1CYXcPoVMTP2xnPNC7yV       
+KT1BGfekcZLniRiA1CYXcPoVMTP2xnPNC7yV\
+https://ghostnet.tzkt.io/KT1BGfekcZLniRiA1CYXcPoVMTP2xnPNC7yV/operations/
