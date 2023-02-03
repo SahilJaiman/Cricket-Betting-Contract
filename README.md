@@ -5,4 +5,7 @@ This is a Tezos based cricket betting smart contract built using SmartPy. It all
 
 - **addEvent()** 
 - **placeBet()** 
-- **resolveBet()**        
+- **resolveBet()**
+
+## Contract Address 
+KT1BGfekcZLniRiA1CYXcPoVMTP2xnPNC7yV       
