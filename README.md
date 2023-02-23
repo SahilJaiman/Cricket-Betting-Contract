@@ -12,5 +12,6 @@ The placeBet() entry point allows users to place a bet on their preferred team f
 The resolveBet() entry point allows the admin to resolve a specific match event and distribute the funds to the winning bettors. The entry point takes in two parameters, the event ID and the name of the winning team. The contract checks the bets placed for the event, calculates the winnings for the correct bets, and transfers the funds to the winning users' accounts. This entry point ensures that the betting process is resolved in a fair and transparent manner, and the winnings are distributed accurately to the winning bettors.
 
 ## Contract 
-Address : KT1BGfekcZLniRiA1CYXcPoVMTP2xnPNC7yV\
-TzKT : https://ghostnet.tzkt.io/KT1BGfekcZLniRiA1CYXcPoVMTP2xnPNC7yV/operations/
+Address : KT1FoegKe8adSEtHmYz9AxE6DrgCCrcHpssP\
+TzKT : https://ghostnet.tzkt.io/KT1FoegKe8adSEtHmYz9AxE6DrgCCrcHpssP/operations/ \
+Bcd : https://better-call.dev/ghostnet/KT1FoegKe8adSEtHmYz9AxE6DrgCCrcHpssP/operations
